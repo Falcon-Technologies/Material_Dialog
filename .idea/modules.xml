@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Material_Dialog.iml" filepath="$PROJECT_DIR$/.idea/modules/Material_Dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Material_Dialog.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
